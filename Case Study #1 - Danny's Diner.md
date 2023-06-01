@@ -42,9 +42,7 @@ ORDER BY customer_id;
 
 This query will provide the desired result for the number of days each customer has visited the restaurant, ordered by customer ID.
 
-### Question 3: "What
-
- was the first item from the menu purchased by each customer?"
+### Question 3: "What was the first item from the menu purchased by each customer?"
 
 **Thought Process:**
 1. Understanding the goal: The question aims to identify the first item purchased from the menu by each customer. This suggests that we need to determine the earliest order date for each customer and retrieve the corresponding menu item.
