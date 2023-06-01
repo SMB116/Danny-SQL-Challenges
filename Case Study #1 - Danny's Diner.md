@@ -1,4 +1,4 @@
-#Thought Process
+# Thought Process
 
 ### Question 1: "What is the total amount each customer spent at the restaurant?"
 
